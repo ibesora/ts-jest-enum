@@ -1,0 +1,28 @@
+{
+  "name": "ts-jest-enum",
+  "version": "1.0.0",
+  "description": "A repo to reproduce an error in ts-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibesora/ts-jest-enum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibesora/ts-jest-enum/issues"
+  },
+  "homepage": "https://github.com/ibesora/ts-jest-enum#readme",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "protomaps": "^1.18.1",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "ts-jest": "^27.1.4"
+  }
+}
